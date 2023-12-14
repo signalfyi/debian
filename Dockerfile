@@ -1,1 +1,1 @@
-FROM debian:11-slim
+FROM debian:11-slim@sha256:9af4db29e828a4d08c7819f9e0972e2dbdac575e73c6438630c83bd79f49c8aa
